@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="screen_background">#F7F6F2</color>
+    <color name="note_background">#FFFFFF</color>
+    <color name="ink">#222230</color>
+    <color name="ink_muted">#7B7A86</color>
+    <color name="note_border">#E7E5E1</color>
+    <color name="accent">#6457E7</color>
+    <color name="accent_soft">#EEEBFF</color>
+    <color name="delete_tint">#B1535B</color>
+    <color name="on_accent">#FFFFFF</color>
+</resources>

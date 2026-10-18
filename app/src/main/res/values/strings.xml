@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Chronik</string>
+    <string name="add_note">Add note</string>
+    <string name="empty_title">Make room for a thought.</string>
+    <string name="empty_subtitle">A reminder, an idea, a little something.\nTap Add note to get it down.</string>
+    <string name="note_hint">Write something…</string>
+    <string name="note_number">NOTE %1$02d</string>
+    <string name="note_editor_label">Note %1$d</string>
+    <string name="copy_note">Copy</string>
+    <string name="delete_note">Delete note</string>
+    <string name="reorder_note">Drag to reorder note. Tap for move options.</string>
+    <string name="move_note_up">Move up</string>
+    <string name="move_note_down">Move down</string>
+    <string name="note_position">Position %1$d of %2$d</string>
+    <string name="note_deleted">Note deleted</string>
+    <string name="undo">Undo</string>
+    <string name="note_copied">Note copied</string>
+    <string name="clipboard_label">Chronik note</string>
+    <plurals name="note_count">
+        <item quantity="one">%d note</item>
+        <item quantity="other">%d notes</item>
+    </plurals>
+</resources>
